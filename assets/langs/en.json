@@ -1,0 +1,19 @@
+{
+    "HOME": {
+        "title": "Home",
+        "go_to_settings": "Go to Settings"
+    },
+    "SETTINGS": {
+        "title": "Settings",
+
+        "language":"Lang",
+        "english": "English",
+        "spanish": "Spanish",
+        "system_language": "System Language",
+        
+        "theme": "Theme",
+        "dark_mode": "Dark Mode",
+        "light_mode": "Light Mode",
+        "system_mode": "System Mode"
+    }
+}

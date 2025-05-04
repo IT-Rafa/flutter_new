@@ -1,0 +1,35 @@
+Pasos a seguir:
+
+Nivel básico:
+
+Queremos: 
+	- Traducción
+
+	- Configuración básica
+		- Elegir idioma
+			- Sistema
+			- Ingles
+			- Español
+			- Otros (pendiente)
+		
+	- Elegir modo del tema
+		- Sistema
+		- Luminoso
+		- Oscuro
+		
+	- Iconos del sistema propios.
+		- El sistema mostrará un icono para ejecutar programa, etc
+		- Si hay barra herramientas, también se mostrará nuestro icono
+
+	- Splash Screen.
+		- Ventana mostrada antes de la ejecución.
+
+En base a esto elegimos un gestor de estado:
+En nuestro caso usamos Riverpod.
+
+CREACIÓN
+	- Creamos aplicación(flutter vacía)
+	- Preparamos repositorio (con github, usando git flow)
+	- Añadimos a aplicación Riverpod y añadimos carpetas para diseño del sistema.
+	
+

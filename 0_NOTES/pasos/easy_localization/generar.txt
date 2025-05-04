@@ -1,0 +1,9 @@
+
+Tras cambiar traducción, claves o similar, ejecutamos el generador para que vuelva a crear las variables correctamente
+
+dart run easy_localization:generate -S assets/langs -f keys -o locale_keys.g.dart
+
+- S
+
+
+dart pub run easy_localization:generate -S assets/translations -f keys -o generate/easy/locale_keys.g.dart

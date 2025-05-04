@@ -1,0 +1,19 @@
+{
+    "HOME": {
+        "title": "Inicio",
+        "go_to_settings": "Ir a Configuración"
+    },
+    "SETTINGS": {
+        "title": "Configuración",
+
+        "language":"Idioma",
+        "english": "Inglés",
+        "spanish": "Español",
+        "system_language": "Idioma del sistema",
+        
+        "theme": "Tema",
+        "dark_mode": "Modo oscuro",
+        "light_mode": "Modo claro",
+        "system_mode": "Modo del sistema"
+    }
+}
